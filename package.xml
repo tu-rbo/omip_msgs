@@ -5,9 +5,9 @@
     Messages for OMIP
   </description>
 
-  <license>GPL</license>
-  <author>Roberto Martin Martin</author>
-  <maintainer email="roberto.martinmartin@tu-berlin.de">Roberto Martin Martin</maintainer>
+  <license>MIT</license>
+  <author>Roberto Martín-Martín</author>
+  <maintainer email="roberto.martinmartin@tu-berlin.de">Roberto Martín-Martín</maintainer>
 
   <buildtool_depend>catkin</buildtool_depend>
 
