@@ -13,10 +13,6 @@ find_package(catkin REQUIRED COMPONENTS
   message_generation
   )
 
-
-find_package(OpenCV REQUIRED)
-find_package(PCL REQUIRED)
-
 add_message_files(DIRECTORY msg FILES 
   RigidBodyPoseAndVelMsg.msg
   RigidBodyPoseMsg.msg

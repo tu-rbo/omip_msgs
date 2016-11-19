@@ -2,12 +2,13 @@
   <name>omip_msgs</name>
   <version>1.0.0</version>
   <description>
-    Messages for OMIP
+    Messages for OMIP - Online Multimodal Interactive Perception
   </description>
 
-  <license>GPL</license>
-  <author>Roberto Martin Martin</author>
-  <maintainer email="roberto.martinmartin@tu-berlin.de">Roberto Martin Martin</maintainer>
+  <license>MIT</license>
+  <author>Roberto Martín-Martín</author>
+  <maintainer email="roberto.martinmartin@tu-berlin.de">Roberto Martín-Martín</maintainer>
+  <url>http://wiki.ros.org/omip</url>  
 
   <buildtool_depend>catkin</buildtool_depend>
 
