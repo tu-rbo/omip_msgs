@@ -7,9 +7,6 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   geometry_msgs
   sensor_msgs
-  image_transport
-  cv_bridge
-  pcl_ros
   message_generation
   )
 
@@ -38,6 +35,6 @@ generate_messages(DEPENDENCIES
 catkin_package(
 #  INCLUDE_DIRS 
 #  LIBRARIES ${PROJECT_NAME}
-  CATKIN_DEPENDS std_msgs geometry_msgs sensor_msgs image_transport cv_bridge pcl_ros message_runtime
+  CATKIN_DEPENDS std_msgs geometry_msgs sensor_msgs message_runtime
 #  DEPENDS opencv pcl 
 )
